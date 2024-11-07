@@ -1,0 +1,14 @@
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.AssemblyInfoInputs.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.AssemblyInfo.cs
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.csproj.CoreCompileInputs.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.exe
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.deps.json
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.runtimeconfig.json
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.dll
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.pdb
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.dll
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\refint\VarsAndData.dll
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.pdb
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.genruntimeconfig.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net8.0\ref\VarsAndData.dll

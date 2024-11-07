@@ -1,0 +1,4 @@
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.AssemblyInfoInputs.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.AssemblyInfo.cs
+D:\Docs\CS\Learning C_Sharp\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\bin\Debug\net7.0\Comments.exe
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\bin\Debug\net7.0\Comments.deps.json
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\bin\Debug\net7.0\Comments.runtimeconfig.json
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\bin\Debug\net7.0\Comments.dll
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\bin\Debug\net7.0\Comments.pdb
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\bin\Debug\net7.0\Comments.xml
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfoInputs.cache
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfo.cs
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.csproj.CoreCompileInputs.cache
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.dll
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\refint\Comments.dll
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.pdb
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\Comments.genruntimeconfig.cache
+D:\Docs\CS\Learning C_Sharp\Finished\Overview\Comments\obj\Debug\net7.0\ref\Comments.dll

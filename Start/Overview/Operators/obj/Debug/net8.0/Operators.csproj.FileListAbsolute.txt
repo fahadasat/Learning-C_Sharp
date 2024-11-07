@@ -1,0 +1,14 @@
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\bin\Debug\net8.0\Operators.exe
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\bin\Debug\net8.0\Operators.deps.json
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\bin\Debug\net8.0\Operators.dll
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\bin\Debug\net8.0\Operators.pdb
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.dll
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\refint\Operators.dll
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.pdb
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+D:\Docs\CS\Learning C_Sharp\Start\Overview\Operators\obj\Debug\net8.0\ref\Operators.dll
